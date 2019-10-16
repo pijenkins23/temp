@@ -51,3 +51,6 @@ for(row.i in 1:nrow(v)){
 m
 rowMeans(v)
 ####
+
+
+#added row 
