@@ -56,3 +56,5 @@ rowMeans(v)
 #added row 
 
 plot(m)
+
+plot(v)
